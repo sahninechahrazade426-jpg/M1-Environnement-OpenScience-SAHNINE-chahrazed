@@ -16,3 +16,5 @@ Ce projet porte sur l'analyse de données environnemental
 Les données environnementales peuvent concerner la température,les précipitations,la qualité de l'air de l'eau ou la biodiversité
 ## Intérêt de l'Open Source
 Les outils Open Source facilitent le partage, la collaboration et la reproductibilité des travaux scientifique
+##Analyse des précipitations
+L'étude des précipitations permet de suivre les variations temporelles des conditions hydrologiques et métérologique
